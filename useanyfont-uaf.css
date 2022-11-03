@@ -1,0 +1,28 @@
+				@font-face {
+					font-family: 'aktivgrotesk-regular';
+					src: url(./../fonts/1491AktivGrotesk-Regular.woff2) format('woff2'),
+						url(./../fonts/1491AktivGrotesk-Regular.woff) format('woff');
+					  font-display: auto;
+				}
+
+				.aktivgrotesk-regular{font-family: 'aktivgrotesk-regular' !important;}
+
+						@font-face {
+					font-family: 'adobe_garamond';
+					src: url(./../fonts/1811Adobe_Garamond.woff2) format('woff2'),
+						url(./../fonts/1811Adobe_Garamond.woff) format('woff');
+					  font-display: auto;
+				}
+
+				.adobe_garamond{font-family: 'adobe_garamond' !important;}
+
+						@font-face {
+					font-family: 'aktivgrotesk-ex';
+					src: url(./../fonts/4772Aktivgrotesk-EX.woff2) format('woff2'),
+						url(./../fonts/4772Aktivgrotesk-EX.woff) format('woff');
+					  font-display: auto;
+				}
+
+				.aktivgrotesk-ex{font-family: 'aktivgrotesk-ex' !important;}
+
+		
